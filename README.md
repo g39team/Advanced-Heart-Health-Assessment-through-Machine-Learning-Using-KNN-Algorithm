@@ -51,4 +51,4 @@ This project has shown that machine learning algorithms can be used to predict h
 ## References
 
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
-* [Machine Learning with Python](https://www.amazon.com/Machine-Learning-Python-Scikit-Learn-TensorFlow/dp/1617294439)
+* [Machine Learning with Python](https://pyimagesearch.com/2019/01/14/machine-learning-in-python/)
