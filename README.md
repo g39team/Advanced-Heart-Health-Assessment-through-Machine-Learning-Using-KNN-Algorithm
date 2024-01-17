@@ -37,7 +37,7 @@ The results of the experiments are shown in the following table:
 | Algorithm | Accuracy |
 |---|---|
 | Logistic regression | 0.85 |
-| K-nearest neighbors | 0.83 |
+| K-nearest neighbors | 0.89 |
 | Support vector machines | 0.82 |
 | Random forest | 0.81 |
 | Gradient boosting | 0.80 |
