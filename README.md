@@ -52,8 +52,8 @@ This project has shown that machine learning algorithms can be used to predict h
 
 ```
 Steps:
-1. Clone the repository: `git clone https://github.com/your_username/heart_health_assessment`
-2. Navigate to the project directory: `cd heart_health_assessment`
+1. Clone the repository: `git clone https://github.com/g39team/Advanced-Heart-Health-Assessment-through-Machine-Learning-Using-KNN-Algorithm.git`
+2. Navigate to the project directory: `cd Advanced-Heart-Health-Assessment-through-Machine-Learning-Using-KNN-Algorithm`
 3. Install the required packages: `pip install -r requirements.txt`
 ```
 
