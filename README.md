@@ -48,6 +48,15 @@ The best-performing algorithm is logistic regression.
 
 This project has shown that machine learning algorithms can be used to predict heart disease with a high degree of accuracy. This information can be used to help doctors diagnose and treat heart disease.
 
+## Installation
+
+```
+Steps:
+1. Clone the repository: `git clone https://github.com/your_username/heart_health_assessment`
+2. Navigate to the project directory: `cd heart_health_assessment`
+3. Install the required packages: `pip install -r requirements.txt`
+```
+
 ## References
 
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
