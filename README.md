@@ -38,9 +38,9 @@ The results of the experiments are shown in the following table:
 |---|---|
 | Logistic regression | 0.85 |
 | K-nearest neighbors | 0.89 |
-| Support vector machines | 0.82 |
-| Random forest | 0.81 |
-| Gradient boosting | 0.80 |
+| Support vector machines | 0.875 |
+| Random forest | 0.875 |
+| Gradient boosting | 0.875 |
 
 The best-performing algorithm is logistic regression.
 
