@@ -42,7 +42,7 @@ The results of the experiments are shown in the following table:
 | Random forest | 0.875 |
 | Gradient boosting | 0.875 |
 
-The best-performing algorithm is logistic regression.
+The best-performing algorithm is KNN (k-nearest neighbor).
 
 ## Conclusion
 
